@@ -14,4 +14,4 @@ Youtube Link - https://youtu.be/EItlUEPCIzM
 
 
 <h4> DataSet </h4>
-Path to Dataset - https://github.com/sandeepnita9/machine-learning-journey/tree/main/datasets
+Path to Dataset - https://github.com/sandeepnita9/machine-learning-journey/blob/main/datasets/citrus.csv
