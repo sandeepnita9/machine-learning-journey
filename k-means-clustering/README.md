@@ -11,3 +11,7 @@
 
 <h4> Learn What is K-Means Clustering Model and How it Works </h4>
 Youtube Link - https://youtu.be/EItlUEPCIzM
+
+
+<h4> DataSet </h4>
+Path to Dataset - https://github.com/sandeepnita9/machine-learning-journey/tree/main/datasets
