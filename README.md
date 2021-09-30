@@ -15,8 +15,10 @@
 
 
 <a name="dimred"><h3>Dimension Reduction Techniques</h3></a>
-<p>PCA - Principal COmponent Analysis Method</p> <a href="https://www.youtube.com/watch?v=g-Hb26agBFg">YouTube Link-1 for PCA</a>
-<p>PCA - Principal COmponent Analysis Method</p> <a href="https://www.youtube.com/watch?v=OFyyWcw2cyM">YouTube Link-2 for PCA</a>
+<a href="https://www.youtube.com/watch?v=g-Hb26agBFg">YouTube Link-1 for PCA</a>
+<a href="https://www.youtube.com/watch?v=OFyyWcw2cyM">YouTube Link-2 for PCA</a>
+<a href="https://www.kaggle.com/vipulgandhi/pca-beginner-s-guide-to-dimensionality-reduction">Kaggle Link for PCA</a>
+
 
 <h3> Other Helpful Resources</h3>
 <ol>
