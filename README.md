@@ -10,3 +10,9 @@
 
 <a name="pandas"><h3>Pandas</h3></a>
 <p>I am following YouTube course</p> <a href="https://www.youtube.com/playlist?list=PLQVvvaa0QuDfSfqQuee6K8opKtZsh7sA9">YouTube Playlist Link</a>
+
+<h3> Other Helpful Resources</h3>
+<ol>
+  <li><a href="https://github.com/codebasics/py/blob/master/TechTopics/DataScienceRoadMap2020/data_science_roadmap_2020.md">6 Months Learning Roadmap for Data Science</a></li>
+ </ol>
+
