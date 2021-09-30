@@ -4,7 +4,7 @@
 <h3> Table of Content</h3>
 <ol>
   <li><a href="README.md#pandas">Pandas - Python Library</a></li>
-  <li><a href="README.md#dimred">Pandas - Dimension Reduction</a></li>
+  <li><a href="README.md#dimred">Dimension Reduction</a></li>
  </ol>
 
 
