@@ -13,8 +13,8 @@
 <a name="pandas"><h3>Pandas</h3></a>
 <p>I am following YouTube course</p> <a href="https://www.youtube.com/playlist?list=PLQVvvaa0QuDfSfqQuee6K8opKtZsh7sA9">YouTube Playlist Link</a>
 
-<a name="probability"><h3>Pandas</h3></a>
-<p>Quick Probability Refresh</p> <a href="https://www.mathgoodies.com/lessons/vol6/intro_probability)"></a>
+<a name="probability"><h3>Probility</h3></a>
+<a href="https://www.mathgoodies.com/lessons/vol6/intro_probability">Quick Probability Refresh</a>
 
 
 
