@@ -4,6 +4,7 @@
 <h3> Table of Content</h3>
 <ol>
   <li><a href="README.md#pandas">Pandas - Python Library</a></li>
+  <li><a href="README.md#probability">Probability</a></li>
   <li><a href="README.md#dimred">Dimension Reduction</a></li>
  </ol>
 
@@ -11,6 +12,11 @@
 
 <a name="pandas"><h3>Pandas</h3></a>
 <p>I am following YouTube course</p> <a href="https://www.youtube.com/playlist?list=PLQVvvaa0QuDfSfqQuee6K8opKtZsh7sA9">YouTube Playlist Link</a>
+
+<a name="probability"><h3>Pandas</h3></a>
+<p>Quick Probability Refresh</p> <a href="https://www.mathgoodies.com/lessons/vol6/intro_probability)"></a>
+
+
 
 
 
